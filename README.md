@@ -30,6 +30,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/dot-net-7-esencial/por-que-dot-net-7
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQFDdlzZfG_oAA/learning-public-crop_675_1200/0/1674726844689?e=2147483647&v=beta&t=XkQ_0-9GAkerKI1PntOsoB_VNc4HgVju6UzyQDeSL6s
