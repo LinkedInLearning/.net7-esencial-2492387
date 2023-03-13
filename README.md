@@ -1,8 +1,8 @@
 # .NET 7 esencial
 
-Este es el repositorio del curso de LinkedIn Learning `[.NET 7 esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `.NET 7 esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/215052556-97613178-b0f3-4286-a041-76e7c55e9fc1.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
